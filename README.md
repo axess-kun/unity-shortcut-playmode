@@ -3,7 +3,7 @@
 ## Features
 
 * Use `F5` shortcut key to enter PlayMode with your scene.
-* When exit play mode, automatically back to your editting scene (before enter play mode) without losing anything you modified.
+* When exit play mode, automatically back to your editing scene (before enter play mode) without losing anything you modified.
 
 ## How to set a startup scene
 
