@@ -1,0 +1,16 @@
+{
+    "name": "Axess.EditorApp.EnterPlayMode",
+    "rootNamespace": "Axess.EditorApp.EnterPlayMode",
+    "references": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,15 @@
+{
+  "name": "me.axess.editorapp.enterplaymode",
+  "version": "0.0.1",
+  "displayName": "Shortcut Enter PlayMode",
+  "description": "Use F5 shortcut key to enter PlayMode with your scene",
+  "unity": "6000.0",
+  "keywords": [
+    "Play Mode"
+  ],
+  "author": {
+    "name": "Axess",
+    "url": "https://github.com/axess-kun"
+  },
+  "license": "UNLICENSED"
+}
